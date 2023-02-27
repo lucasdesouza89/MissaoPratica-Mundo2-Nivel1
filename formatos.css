@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Port+Lligat+Slab&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgba(250, 128, 114, 0.836);
+}
+
+.conteudo{
+    display: flex;
+    justify-content: center;
+    margin: 190px auto;
+}
+
+img{
+    width: 50px;
+}
+
+.imagem{
+    display: table-cell;
+    float: left;
+}
+
+.texto{
+    display: table-cell;
+    font-family: 'Great Vibes', cursive;
+    font-size: 2em;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Port Lligat Slab', serif;
+    margin: 0px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
