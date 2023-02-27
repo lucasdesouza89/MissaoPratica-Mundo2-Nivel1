@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.receitas{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.prato1{
+    width: 400px;
+    padding-bottom: 50px;
+    background-color: rgb(255, 255, 216);
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.349);
+}
+
+.prato2{
+    width: 400px;
+    padding-bottom: 50px;
+    background-color: rgb(255, 255, 216);
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.349);
+}
+
+.prato3{
+    width: 400px;
+    padding-bottom: 50px;
+    background-color: rgb(255, 255, 216);
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.349);
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1{
+    font-family: 'Port Lligat Slab', serif;
+    font-size: 1.5em;
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(46, 43, 43);
+}
+
+.lista{
+    font-family: 'Port Lligat Slab', serif;
+    list-style-position: inside;
+    padding-top: 20px;
+    max-width: 210px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.3em;
+}
+
+.linha-horizontal{
+    max-width: 300px;
+    border: 1px solid rgb(136, 129, 129);
+    margin: auto;
+    margin-top: 50px;
+}
+
+p{
+    font-family: 'Port Lligat Slab', serif;
+    font-size: 1.3em;
+    text-align: justify;
+    margin: auto;
+    max-width: 220px;
+    margin-top: 30px;
+}
