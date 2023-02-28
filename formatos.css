@@ -11,13 +11,13 @@
 .site{
     background-color: rgba(250, 128, 114, 0.836);
     display: flex;
-    justify-content: center;
     min-height: 100vh;
     flex-direction: column;
 }
 
 .conteudo{
     flex: 1;
+    justify-content: center;
 }
 
 img{
