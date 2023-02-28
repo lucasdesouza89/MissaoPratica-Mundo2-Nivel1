@@ -8,14 +8,16 @@
     padding: 0px;
 }
 
-body{
+.site{
     background-color: rgba(250, 128, 114, 0.836);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 .conteudo{
-    display: flex;
-    justify-content: center;
-    margin: 255px auto;
+    flex: 1;
 }
 
 img{
