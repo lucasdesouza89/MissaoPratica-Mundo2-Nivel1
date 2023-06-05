@@ -4,4 +4,4 @@ Esse foi o primeiro projeto feito para o curso Desenvolvimento Fullstack da Est√
 
 No projeto foram utilizadas t√©cnicas de HTML, CSS e Bootstrap.
 
-Link para acesso: https://lucasdesouza89.github.io/MissaoPraticaNivel1/home.html
+Link para acesso: https://lucasdesouza89.github.io/MissaoPratica-Mundo2-Nivel1/home.html
